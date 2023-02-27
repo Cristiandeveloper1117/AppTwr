@@ -1,0 +1,23 @@
+.Imgusuarios{
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+}
+
+.divimg{
+    width: 35px;
+    height: 35px;
+}
+
+.divusuariosflex{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size:20px;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+}
+
+.Nombreusuario{
+    margin-left: 5px;
+}

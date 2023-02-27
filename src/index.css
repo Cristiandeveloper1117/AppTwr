@@ -1,0 +1,8 @@
+body{
+  background: radial-gradient(ellipse at 50% 50%, #ffffff 0%, #3e64ff 100%);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}

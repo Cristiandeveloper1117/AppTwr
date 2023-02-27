@@ -1,0 +1,13 @@
+.Tweet{
+    border: none;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    width: 130px;
+    height: 35px;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+    background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%);
+}
